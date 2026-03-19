@@ -1,16 +1,20 @@
-## Hi there 👋
+# Antonios Zacharias
 
-<!--
-**g2antozach/g2antozach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Student in Systems Security (AUTh) | BSc in Mathematics**
 
-Here are some ideas to get you started:
+### About
+I am a postgraduate student at the Informatics Department of AUTh, specializing in Communication Networks and System Security. I focus on bridging the gap between theoretical logic and practical security implementations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Areas of Interest
+- **Cryptography**
+- **Network & Software Security**
+- **Systems Defense & Vulnerability Analysis**
+- **Applied Mathematics**
+
+### Programming & Tools
+- **Computing:** Python, SageMath, Matlab
+- **Documentation:** LaTeX
+
+### Contact
+- **LinkedIn:** [linkedin.com/in/antonios-zacharias](https://www.linkedin.com/in/antonios-zacharias/)
+- **Email:** [g2antozach@gmail.com](mailto:g2antozach@gmail.com)
