@@ -3,8 +3,8 @@
 **MSc Student in Systems Security (AUTh) | BSc in Mathematics**
 
 ### About
-I am a postgraduate student at the Informatics Department of AUTh, specializing in Communication Networks and System Security. 
-My current research interests lean towards Post-Quantum Cryptography. 
+I am a postgraduate student at the Informatics Department of AUTh, specializing in Communication Networks and System Security. \\
+My current research interests lean towards Post-Quantum Cryptography. \\
 Most of my projects and are currently being formatted and will be uploaded here soon.
 
 ### Areas of Interest
